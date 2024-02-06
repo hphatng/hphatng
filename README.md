@@ -1,3 +1,5 @@
+<img align="center" alt="banner" width = "1920" height = "350" src = "https://github.com/Elysian01/Elysian01/blob/master/coder.gif" >
+<!--[MasterHead](https://github.com/Elysian01/Elysian01/blob/master/coder.gif) -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
@@ -8,7 +10,11 @@
 
 <br/>
 
-<div align="center">
+<div align="right">
+    <img align="right" alt="Coding" width="330" height = "318" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952lanzvmfkq7hiz6ywhlc53mz7lbvac75s7fcohidd&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<div/>
+
+<div align="left">
  
  🔭 I’m currently studying at **Collége de MyTho**
  
@@ -18,7 +24,7 @@
 
  </div>
  
-<div align="center"> 
+<!--<div align="center"> 
   <a href="nhphat.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -31,13 +37,16 @@
 </div>
 
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,javascript,mongodb,nextjs,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
-</div>
+ <div align="left">
+    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+    <!-- <br/> -->
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,javascript,mongodb,nextjs,mysql"/>
+            <div align="center">    
+                <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git"/>
+            <div/>
+    <div/>
+ <div/>
 
 <br/>
 <hr/>
@@ -65,10 +74,11 @@
 
 <hr/>
 
-<br/>
+<br/> -->
 
-<!-- <div align="center">
-<a href='https://ko-fi.com/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<div align="center">
+<h3 align="center">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hphatng" /></a></p><br><br>
 </div>
 
 <br/>
