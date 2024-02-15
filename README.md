@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7F400&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Magnus+Nguyen" />
 </h1>
 
-<h3 align="center">A passionate student developer from Vietnam 🇻🇳</h3>
+<h3 align="center">A passionate newbie developer from Vietnam 🇻🇳</h3>
 
 <br/>
 
