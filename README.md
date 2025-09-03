@@ -16,9 +16,9 @@
 
 <div align="left">
  
- 🔭 I’m currently studying at **Collége de MyTho**
+ 🔭 I’m currently studying Fintech at **Ho Chi Minh University of Banking**
  
- 🌱 I’m currently learning **Python, PyTorch, Mathematics**
+ 🌱 I’m currently learning **Coding, Finance, Mathematics**
 
 ⚡ **“Every day that we spent not improving our products was a wasted day.”**
 
